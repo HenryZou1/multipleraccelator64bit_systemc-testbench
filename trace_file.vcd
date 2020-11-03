@@ -1,0 +1,130 @@
+$date
+     Jan 29, 2020       14:27:07
+$end
+
+$version
+              SystemC 2.3.0-ASI --- Sep 10 2012 16:44:06
+$end
+
+$timescale
+     1 ns
+$end
+
+$scope module SystemC $end
+$var wire    1  aaa  a0       $end
+$var wire    1  aab  a1       $end
+$var wire    1  aac  a2       $end
+$var wire    1  aad  a3       $end
+$var wire    1  aae  a4       $end
+$var wire    1  aaf  a5       $end
+$var wire    1  aag  a6       $end
+$var wire    1  aah  a7       $end
+$var wire    1  aai  b0       $end
+$var wire    1  aaj  b1       $end
+$var wire    1  aak  b2       $end
+$var wire    1  aal  b3       $end
+$var wire    1  aam  b4       $end
+$var wire    1  aan  b5       $end
+$var wire    1  aao  b6       $end
+$var wire    1  aap  b7       $end
+$var wire    1  aaq  p0       $end
+$var wire    1  aar  p1       $end
+$var wire    1  aas  p2       $end
+$var wire    1  aat  p3       $end
+$var wire    1  aau  p4       $end
+$var wire    1  aav  p5       $end
+$var wire    1  aaw  p6       $end
+$var wire    1  aax  p7       $end
+$var wire    1  aay  p8       $end
+$var wire    1  aaz  p9       $end
+$var wire    1  aba  p10       $end
+$var wire    1  abb  p11       $end
+$var wire    1  abc  p12       $end
+$var wire    1  abd  p13       $end
+$var wire    1  abe  p14       $end
+$var wire    1  abf  p15       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+1aaa
+0aab
+0aac
+0aad
+0aae
+0aaf
+0aag
+0aah
+1aai
+1aaj
+0aak
+0aal
+0aam
+0aan
+0aao
+0aap
+1aaq
+1aar
+0aas
+0aat
+0aau
+0aav
+0aaw
+0aax
+0aay
+0aaz
+0aba
+0abb
+0abc
+0abd
+0abe
+0abf
+$end
+
+#10
+1aab
+1aac
+1aad
+1aae
+1aaf
+1aag
+1aah
+1aak
+1aal
+1aam
+1aan
+1aao
+1aap
+0aar
+1aaz
+1aba
+1abb
+1abc
+1abd
+1abe
+1abf
+
+#20
+0aae
+0aaf
+0aag
+0aah
+0aam
+0aan
+0aao
+0aap
+1aav
+1aaw
+1aax
+0aaz
+0aba
+0abb
+0abc
+0abd
+0abe
+0abf
+
